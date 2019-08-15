@@ -10,12 +10,11 @@ package livro;
  * @author Usuário
  */
 public class Start {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+      Interface i = new Interface();
+      i.show();
+      
+      // Livro f = new
     }
     
 }
